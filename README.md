@@ -1,4 +1,5 @@
 # Machine-Learning
-Proyek ini menerapkan metode Large Language Model (LLM) untuk melakukan rangkuman data yang diperoleh dari hasil wawancara. Model yang digunakan adalah Palm2 dari Google Vertex AI. Tim proyek melakukan penyesuaian pada input dan output dari model Palm2 sesuai dengan kebutuhan spesifik proyek.
+This project employs a Large Language Model (LLM) approach to summarize data obtained from interview results. The chosen model for this project is Palm2 from Google Vertex AI. We have customized the input and output of the Palm2 model to meet the specific requirements of the project.
 
-Pendekatan ini memungkinkan integrasi teknologi canggih dalam proses analisis data, dengan tujuan meningkatkan efisiensi dan akurasi dalam merangkum informasi hasil wawancara. Dengan demikian, proyek ini menggabungkan keunggulan model bahasa besar untuk mendukung tugas analisis data yang melibatkan wawancara.
+This approach enables the integration of advanced technology in the data analysis process, aiming to enhance efficiency and accuracy in summarizing interview information. Thus, the project combines the strengths of large language models to support data analysis tasks involving interviews.
+
