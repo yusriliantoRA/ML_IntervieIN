@@ -3,3 +3,4 @@ This project employs a Large Language Model (LLM) approach to summarize data obt
 
 This approach enables the integration of advanced technology in the data analysis process, aiming to enhance efficiency and accuracy in summarizing interview information. Thus, the project combines the strengths of large language models to support data analysis tasks involving interviews.
 
+![Architecture of PaLM](Architecture of PaLM.webp)
